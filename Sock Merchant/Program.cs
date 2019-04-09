@@ -44,7 +44,7 @@ namespace Sock_Merchant
 
             int result = sockMerchant(n, ar);
 
-            Console.ReadLine();
+           // Console.ReadLine();
 
         }
     }
