@@ -22,6 +22,8 @@ namespace Sock_Merchant
                 if (temp > 0)
                     pairs += temp;
             }
+
+            //test user comments
             return pairs;
         }
         static void Main(string[] args)
@@ -44,7 +46,7 @@ namespace Sock_Merchant
 
             int result = sockMerchant(n, ar);
 
-            Console.ReadLine();
+         //  // Console.ReadLine();
 
         }
     }
