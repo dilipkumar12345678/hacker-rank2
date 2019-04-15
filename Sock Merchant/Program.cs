@@ -22,6 +22,8 @@ namespace Sock_Merchant
                 if (temp > 0)
                     pairs += temp;
             }
+
+            //test user comments
             return pairs;
         }
         static void Main(string[] args)
